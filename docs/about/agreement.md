@@ -28,6 +28,6 @@
 - Following locally applicable health and safety guidance
 - Promoting a respectful environment free of harassment and discrimination
 
-*Signed by committing this file in my repository,*
+*Signed by committing this file in my repository*
 
 Ezahan Hanafi 2023
