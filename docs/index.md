@@ -2,7 +2,6 @@
 
 ## Hello, new visitor!
 ![Profile Pic](https://user-images.githubusercontent.com/113325129/193180667-d611dc06-05c1-4085-a11d-eba57ccb9936.png "Greetings from Me!")
-<img src="https://user-images.githubusercontent.com/113325129/193180667-d611dc06-05c1-4085-a11d-eba57ccb9936.png" width="600" height="800">
 
 ## Welcome to my Fab Academy site!
 
